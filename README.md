@@ -21,6 +21,9 @@ map.put("two",2);
 
 Now convert Map into List, How to do that.
 
+Convert Map into List :
+=====================
+
 List<Entry<String,Integer>> entries = new ArrayList<>(map.entrySet());
 
 Ascending Order :
