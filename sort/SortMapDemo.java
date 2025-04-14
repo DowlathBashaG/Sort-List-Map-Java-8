@@ -1,4 +1,4 @@
-package com.javatechie.stream.sort;
+package dowlath.io.stream.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 
-import com.javatechie.stream.api.example.Employee;
+import dowlath.io.Employee;
 
 public class SortMapDemo {
 
