@@ -1,12 +1,12 @@
-package com.javatechie.stream.sort;
+package dowlath.io.stream.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import com.javatechie.stream.api.example.DataBase;
-import com.javatechie.stream.api.example.Employee;
+import dowlath.io.DataBase;
+import dowlath.io.Employee;
 
 public class SortListDemo {
 
